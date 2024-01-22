@@ -32,7 +32,7 @@ namespace ConsoleHolaMundo
                     //6. Set the new output
                     Console.SetOut(writer);
                     //7. Write something
-                    Console.WriteLine("Hello World from the file!");
+                    Console.WriteLine("Hello World from the file! prueba tres si se ejecuto OK");
                     //8. Change the ouput again
                     Console.SetOut(standardOutput);
                 }
