@@ -1,0 +1,5 @@
+c:\users\hls consultor\documents\visual studio 2013\Projects\ConsoleHolaMundo\ConsoleHolaMundo\bin\Debug\ConsoleHolaMundo.exe
+c:\users\hls consultor\documents\visual studio 2013\Projects\ConsoleHolaMundo\ConsoleHolaMundo\bin\Debug\ConsoleHolaMundo.pdb
+c:\users\hls consultor\documents\visual studio 2013\Projects\ConsoleHolaMundo\ConsoleHolaMundo\obj\Debug\ConsoleHolaMundo.csprojResolveAssemblyReference.cache
+c:\users\hls consultor\documents\visual studio 2013\Projects\ConsoleHolaMundo\ConsoleHolaMundo\obj\Debug\ConsoleHolaMundo.exe
+c:\users\hls consultor\documents\visual studio 2013\Projects\ConsoleHolaMundo\ConsoleHolaMundo\obj\Debug\ConsoleHolaMundo.pdb
